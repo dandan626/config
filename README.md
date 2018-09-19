@@ -1,3 +1,5 @@
 # config
-the config for linux development
-1, add the compile build system tools.
+# this repo for install some essential tools for build system.
+# such as the gcc, 
+# such as the bashrc and other private config in linux.
+
